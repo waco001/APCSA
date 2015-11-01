@@ -39,7 +39,7 @@ from the command line (without
 an IDE).
 
  ---
-3 Chapter Three: The Eclipse IDE
+Chapter Three: The Eclipse IDE
 • Introducing Eclipse
 • Eclipse Java IDE Walk-through
 • Creating an Eclipse Project
@@ -55,7 +55,7 @@ Eclipse IDE to write, build, and
 run the program.
 
  ---
-4 Chapter Four: Data Types and Variables
+Chapter Four: Data Types and Variables
 • Primitive Data Types
 • Variables
 • Printing Data
@@ -65,7 +65,7 @@ declaring, initializing, and printing
 variables of different data types.
 
  ---
-5 Chapter Five: Working With Strings
+Chapter Five: Working With Strings
 • Reference Data Types
 • Comparing Strings
 • Common String Operations
@@ -80,7 +80,7 @@ substrings, formatting, parsing,
 and case conversion.
 
  ---
-6 Chapter Six: User Input
+Chapter Six: User Input
 • Using Command-Line Parameters
 • Interactive User Input
 • Validating User Input
@@ -92,7 +92,7 @@ then format that input into an
 output story.
 
  ---
-7 Chapter Seven: Basic Flow Control
+Chapter Seven: Basic Flow Control
 • Logical Expressions and Relational
 Operators
 • Using the "if" Statement
@@ -108,7 +108,7 @@ involving maximum integer sizes
 are explored and tested.
 
  ---
-8 Chapter Eight: Writing Methods
+Chapter Eight: Writing Methods
 • Writing and Calling Methods
 • Method Parameters and Return Values
 • Calling Methods
@@ -120,7 +120,7 @@ screen given input row and
 column size parameters.
 
  ---
-9 Chapter Nine: Debugging and Exceptions
+Chapter Nine: Debugging and Exceptions
 • Logic Errors, Runtime Errors and
 Exceptions
 • Catching Exceptions
@@ -135,7 +135,7 @@ skills to identify and resolve each
 issue.
 
  ---
-10 Chapter Ten: Introduction to OOP
+Chapter Ten: Introduction to OOP
 • Object-Oriented Concepts
 • Functional Decomposition
 • Composite Classes
@@ -147,7 +147,7 @@ Computer object. The output is a
 diagram instead of a program.
 
  ---
-11-12 Chapter Eleven: Objects in Java
+Chapter Eleven: Objects in Java
 • Defining a Class
 • Public, Private, and Protected Members
 • Constructors
@@ -162,7 +162,7 @@ knows how to run races through
 the IRacer interface.
 
  ---
-13 Chapter Twelve: Graphical Java Programs
+Chapter Twelve: Graphical Java Programs
 • Java Swing
 • Creating a Simple Window
 • Event-Driven Programming
@@ -174,7 +174,7 @@ allow users to enter a phone
 number for display.
 
  ---
-14 Chapter Thirteen: Swing Input Controls
+Chapter Thirteen: Swing Input Controls
 • Text and Numeric Input
 • List Input
 • Option Input
@@ -186,7 +186,7 @@ boxes, radio buttons, list boxes,
 etc).
 
  ---
-15 Chapter Fourteen: Arrays and Collections
+Chapter Fourteen: Arrays and Collections
 • Arrays (1D and 2D)
 • Java Lists and ArrayLists
 • Iterators
@@ -198,7 +198,7 @@ calculate baseball player batting
 statistics.
 
  ---
-16-17 Chapter Fifteen: Inheritance and Polymorphism
+Chapter Fifteen: Inheritance and Polymorphism
 • Learn about the “Jail Break!” game.
 • Base Classes and Derived Classes
 • Using References to Base and Derived
@@ -218,7 +218,7 @@ meet the requirements using a
 provided test class.
 
  ---
-18-19 Chapter Sixteen: MidTerm Project
+Chapter Sixteen: MidTerm Project
 For the mid-term project the student will
 complete a game called “Jail Break” that is based
 on an old Viking board game. The student will
@@ -258,7 +258,7 @@ Ending the Game – Complete
 the end-of-game logic.
 
  ---
-20 Chapter Seventeen: Math Functions in Java
+Chapter Seventeen: Math Functions in Java
 • Java Math Functions
 • The Binary Number System
 • Creating a MathFactory demonstration
@@ -268,7 +268,7 @@ MathFactory lab to include
 decimal-to-binary conversion.
 
  ---
-21 Chapter Eighteen: File Access
+Chapter Eighteen: File Access
 • Data Streams
 • Reading and Writing Text Data
 • Reading and Writing Binary Data
@@ -280,7 +280,7 @@ back in again and re-populate the
 address list.
 
  ---
-22 Chapter Nineteen: Sorting, Searching and
+Chapter Nineteen: Sorting, Searching and
 Recursion
 • Recursion
 • Sorting Algorithms (Bubble, Selection,
@@ -293,7 +293,7 @@ function to locate a number in a
 pre-sorted array.
 
  ---
-23 Chapter Twenty: Program Efficiency
+Chapter Twenty: Program Efficiency
 • Common Algorithms
 • Algorithm Performance (Big-O)
 • Measuring Sorting Efficiency
@@ -306,7 +306,7 @@ different sort routines with
 various numbers of elements.
 
  ---
-24 Chapter Twenty-One: Vector and Bitmap
+Chapter Twenty-One: Vector and Bitmap
 Images
 • Screen Coordinates
 • Drawing Shapes
@@ -317,7 +317,7 @@ image graphics to generate a
 randomized cloudy sky scene.
 
  ---
-25-26 Chapter Twenty-Two: College Board
+Chapter Twenty-Two: College Board
 Supplemental Labs
 This chapter gives students a chance to complete
 many activities in the College Board AP
@@ -339,7 +339,7 @@ object-oriented design concepts
 with a simple card game.
 
  ---
-27 Chapter Twenty-Three: Computer Networking
+Chapter Twenty-Three: Computer Networking
 • Basic Networking
 • Network Topology
 • Network Addressing
@@ -349,7 +349,7 @@ and store in a shared directory and
 class web page.
 
  ---
-28 Chapter Twenty-Four: Software Engineering
+Chapter Twenty-Four: Software Engineering
 Principles
 • Design Processes and Teamwork
 • Java Doc
@@ -361,7 +361,7 @@ and generate HTML output using
 the javadoc tool.
 
  ---
-29-30 Chapter Twenty-Five: Team Project
+Chapter Twenty-Five: Team Project
 The final project can be completed before or
 after the AP exam and the timeline scaled to fit
 available time. Student-driven labs will cover
@@ -382,16 +382,16 @@ Team Project Testing – Student
 teams will test their final project.
 
  ---
-31-32 AP EXAM – PRACTICE TESTS, REVIEW,
+AP EXAM – PRACTICE TESTS, REVIEW,
 MAKE-UP WORK
 Flexible time used to review and
 practice for the AP exam.
 
  ---
-33 AP EXAM – EARLY MAY
+AP EXAM – EARLY MAY
 
  ---
-34+ After the exam, the class will work on
+After the exam, the class will work on
 completion / extension of Team Project or
 other fun teacher-driven activities.
 Hands-on programming activities
